@@ -11,3 +11,6 @@ This is a very simple 2D game I made using C# and Unity.
 | ESC        | Pause               |
 | R          | Reloads game (only when Zeppelin is hit by planes) |  
 | Q          | Just terminates the application                    |
+
+# Screenshot 
+![Screenshot](./ScreenShot.jpg)
